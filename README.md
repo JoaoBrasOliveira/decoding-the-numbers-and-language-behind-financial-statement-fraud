@@ -39,6 +39,10 @@ As part of the data used is proprietary it is not possible to share the datasets
 
 **Documentation:** The thesis report provides very clear instructions on the steps followed and the code can guide along the main operations executed.
 
+## To Cite
+
+Oliveira, J. de B. B. de. (2024). Decoding the numbers and language behind financial statement fraud [Dissertação de mestrado, Iscte - Instituto Universitário de Lisboa]. Repositório Iscte. http://hdl.handle.net/10071/33578
+
 ## Acknowledgements
 
 I would like to thank my supervisors for their guidance as "_There is no favorable wind for the sailor who doesn’t know where to go_" - Seneca:
