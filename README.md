@@ -22,11 +22,13 @@ Tags: `Large Language Models`, `Fraud detection`, `Financial statements`, `Secur
 ## Dataset Description
 
 **Sources:** The data used was obtained via a combination of several distinct data sources and was only possible after many failures in information retrieval attempts via API´s which had incorrect information. As such the main data sources where:
+- Securities and Exchange Comission website: [https://www.sec.gov/] from which a list of all file submissions from 1993 to 2024 were obtained, and are made available here: [https://www.kaggle.com/datasets/joaobrasoliveira/securities-and-exchange-comission-sec-master];
+- Professor Ian Gow´s farr package data, available on the author´s Github: [https://github.com/iangow/farr]. Specifically: aaer_dates, aaer_firm_year and gvkey2cik;
 - Dechow, Ge, Larson and Sloan (2011)/USCMarshall dataset, available for purchase at the following link: [https://sites.google.com/usc.edu/aaerdataset/home?authuser=0];
 - Loukas, L., Fergadiotis, M., Androutsopoulos, I., & Malakasiotis, P. (2021)/EDGAR-CORPUS dataset, freely available at the following link: [https://huggingface.co/datasets/eloukas/edgar-corpus];
 - Bao, Y., Ke, B., Li, B., Yu, Y. J., & Zhang, J. (2019) dataset, freely available at the author´s GitHub via the following link:[https://github.com/JarFraud/FraudDetection].
 
-As part of the data used is proprietary it is not possible to share the datasets openly. All authors have been given due credit.
+As part of the data used is proprietary it is not possible to share the datasets openly. However, free-access data is made available on the data folder, given that all authors have been given due credit.
 
 **Structure:** The final dataset included a total of 1.850 filings, split between those involved in fraudulent (414 filings) and non-fraudulent activities (1.436 filings). For each of these filings the dataset contained the following variables:
 - The text contents of the (MD&A) section;
