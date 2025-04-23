@@ -52,6 +52,6 @@ I would like to thank my supervisors for their guidance as "_There is no favorab
 - [Prof. Anabela Ribeiro Costa](https://ciencia.iscte-iul.pt/authors/anabela-ribeiro-dias-da-costa/cv): Professor at ISCTE Business School, specializing in optimization and tree algorithms.
 - [Prof. Diana Aldea Mendes](https://ciencia.iscte-iul.pt/authors/diana-elisabeta-aldea-mendes/cv): Professor at ISCTE Business School, specializing in time-series analysis and and deep learning.
 
-## Document statistics - as of 24/03/2025
+## Document statistics - as of 23/04/2025
 
-![image](images/Statistics_240425.png)
+![image](images/Statistics_230425.png)
